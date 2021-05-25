@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/xyz5020/wechat_robot/issues"
   },
-  "homepage": "https://github.com/xyz5020/wechat_robot#readme"
+  "homepage": "https://github.com/xyz5020/wechat_robot#readme",
+  "dependencies": {
+    "wechaty": "^0.60.11"
+  }
 }
