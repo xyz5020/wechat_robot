@@ -1,0 +1,23 @@
+{
+  "name": "wechat_robot",
+  "version": "1.0.0",
+  "description": "wechat robot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xyz5020/wechat_robot.git"
+  },
+  "keywords": [
+    "wechat",
+    "robot"
+  ],
+  "author": "xuying",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xyz5020/wechat_robot/issues"
+  },
+  "homepage": "https://github.com/xyz5020/wechat_robot#readme"
+}
